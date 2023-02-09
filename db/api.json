@@ -1,0 +1,62 @@
+[
+    {
+        "precio": 500,
+        "id": 1,
+        "tittle": "Café",
+        "imageUrl": "https://picsum.photos/id/0/600"
+    },
+    {
+        "precio": 300,
+        "id": 2,
+        "tittle": "Beer",
+        "imageUrl": "https://picsum.photos/id/1/600"
+    },
+    {
+        "precio": 123,
+        "id": 3,
+        "tittle": "Drink",
+        "imageUrl": "https://picsum.photos/id/2/600"
+    },
+    {
+        "precio": 300,
+        "id": 4,
+        "tittle": "Apple",
+        "imageUrl": "https://picsum.photos/id/3/600"
+    },
+    {
+        "precio": 5000,
+        "id": 5,
+        "tittle": "Monitor",
+        "imageUrl": "https://picsum.photos/id/4/600"
+    },
+    {
+        "precio": 5500,
+        "id": 6,
+        "tittle": "Random",
+        "imageUrl": "https://picsum.photos/id/5/600"
+    },
+    {
+        "precio": 300,
+        "id": 7,
+        "tittle": "Screen",
+        "imageUrl": "https://picsum.photos/id/6/600"
+    },
+    {
+        "precio": 20000,
+        "id": 8,
+        "tittle": "Laptop",
+        "imageUrl": "https://picsum.photos/id/7/600"
+    },
+    {
+        "precio": 2000,
+        "id": 9,
+        "tittle": "Smartphone",
+        "imageUrl": "https://picsum.photos/id/8/600"
+    },
+    {
+        "precio": 3000,
+        "id": 10,
+        "tittle": "TV",
+        "imageUrl": "https://picsum.photos/id/9/600"
+    }
+]
